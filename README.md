@@ -21,3 +21,31 @@
     </td>
   </tr>
 </table>
+
+<table align="center">
+  <tr>
+    <th colspan="2">Backend Besties</th>
+  </tr>
+  
+  <tr align="center">
+    <td colspan="2">
+      <img src="icons/nodejs-plain-wordmark.svg" height="90" />
+      <img src="icons/express-original-wordmark.svg" height="80" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="icons/mongodb-plain-wordmark.svg" height="70" />
+    </td>
+    <td>
+      <img src="icons/redis-plain-wordmark.svg" height="60" />
+    </td>
+  </tr>
+  
+  <tr align="center">
+    <td colspan="2">
+      <img src="icons/python-plain-wordmark.svg" height="80" />
+    </td>
+  </tr>
+  
+</table>
